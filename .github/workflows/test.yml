@@ -22,7 +22,7 @@ jobs:
 
  deploy:
    runs-on: ubuntu-latest
-   needs: build
+   needs: body-builder
 
 
    steps:
