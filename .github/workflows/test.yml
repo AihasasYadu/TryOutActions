@@ -8,7 +8,7 @@ on:
 
 
 jobs:
- build:
+ body-builder:
    runs-on: ubuntu-latest
 
 
